@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 #locale               : "en"
-title                : "Avratanu Biswas,MSc"
+title: Avratanu Biswas,MSc
 #title_separator:     : "|"
 email: #
 description: # "Another curious human."
