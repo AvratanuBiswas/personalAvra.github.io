@@ -16,7 +16,7 @@
 
 locale               : "en"
 title                : "Avratanu Biswas,MSc"
-title_separator:     : "|"
+#title_separator:     : "|"
 email: #
 description: # "Another curious human."
 twitter_username     : "avra_biswas"
