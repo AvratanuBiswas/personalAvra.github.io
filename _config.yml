@@ -20,7 +20,7 @@ email:
 description: # "Another curious human."
 twitter_username: "avra_biswas"
 github_username: "AvratanuBiswas"
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Avratanu Biswas"
-  avatar : "911A21A0-2A5D-4323-ABB1-2782D8DC5382.jpeg"
+  avatar : "https://github.com/AvratanuBiswas/personalAvra.github.io/blob/master/assets/images/911A21A0-2A5D-4323-ABB1-2782D8DC5382.jpeg?raw=true"
   bio    : "Another curious human."
   links:
     - label: "Website"
