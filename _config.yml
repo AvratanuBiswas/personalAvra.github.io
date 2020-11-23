@@ -20,7 +20,7 @@ email:
 description: # "Another curious human."
 twitter_username: "avra_biswas"
 github_username: "AvratanuBiswas"
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
