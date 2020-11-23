@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-#locale: "en"
-title: Avratanu Biswas, MSc
-title_separator: |
-email:
+
+locale               : "en"
+title                : "Avratanu Biswas,MSc"
+title_separator:     : "|"
+email: #
 description: # "Another curious human."
-twitter_username: "avra_biswas"
-github_username: "AvratanuBiswas"
-minimal_mistakes_skin: default
+twitter_username     : "avra_biswas"
+github_username      : "AvratanuBiswas"
+minimal_mistakes_skin: "default"
 search: true
 
 # Build settings
